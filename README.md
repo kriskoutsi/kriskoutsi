@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kris Koutsi</h1>
 <h3 align="center">I'm an ECE student at NTUA.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/24577783/lofiboygif2.gif">
+<img align="right" alt="Coding" width="400" src="(https://cdn.vox-cdn.com/uploads/chorus_asset/file/24577783/lofiboygif2.gif)"/>
 
 - 📫 How to reach me **kriskoutsi@gmail.com**
 
